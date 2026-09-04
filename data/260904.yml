@@ -7,7 +7,7 @@ about:
   head: d9b2aa7
   archived: false
   latestVersion: v0.35.1
-  collectedAt: 2026-09-04T19:18:59Z
+  collectedAt: 2026-09-04T21:13:30Z
 timeline:
   created: 2019-07-23
   lastCommit: 2026-09-01
@@ -82,6 +82,59 @@ total:
   openIssue: 19
   commit: 613
 ---
+path: /home/runner/.x-repo/github.com/sunny0826/kubecm
+collectedAt: 2026-09-04T21:13:32Z
+loc:
+  Go:
+    code: 10372
+    comments: 596
+    blanks: 1267
+    files: 71
+  JavaScript:
+    code: 921
+    comments: 55
+    blanks: 149
+    files: 8
+  Makefile:
+    code: 86
+    comments: 11
+    blanks: 24
+    files: 1
+  Sh:
+    code: 86
+    comments: 11
+    blanks: 17
+    files: 2
+  Svg:
+    code: 66
+    comments: 1
+    blanks: 0
+    files: 2
+  Html:
+    code: 50
+    comments: 4
+    blanks: 5
+    files: 2
+  Yaml:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2029
+    blanks: 918
+    files: 54
+total:
+  code: 11999
+  comments: 2820
+  blanks: 2437
+  files: 142
 ---
 date: "2026-08-24"
 repo:
