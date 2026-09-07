@@ -5,7 +5,7 @@ about:
   head: d9b2aa7
   archived: false
   latestVersion: "v0.35.1"
-  collectedAt: 2026-09-07T04:36:16Z
+  collectedAt: 2026-09-07T19:52:44Z
 timeline:
   created: 2019-07-23
   lastCommit: 2026-09-01
@@ -81,7 +81,7 @@ total:
   commit: 613
 ---
 path: /home/runner/.x-repo/github.com/sunny0826/kubecm
-collectedAt: 2026-09-07T04:36:19Z
+collectedAt: 2026-09-07T19:52:47Z
 loc:
   Go:
     code: 10372
@@ -254,7 +254,7 @@ checks:
       - 'Warn: 9 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:21+00:00
+  collectedAt: 2026-09-07T19:52:49+00:00
   platform:
     darwin/arm64:
       name:  kubecm_v0.35.1_Darwin_arm64.tar.gz
