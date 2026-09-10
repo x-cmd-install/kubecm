@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.35.1"
   latestRelease: "v0.35.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:05:03Z
+  collectedAt: 2026-09-10T22:49:50Z
 timeline:
   created: 2019-07-23
   lastCommit: 2026-09-01
@@ -85,7 +85,7 @@ total:
   commit: 613
 ---
 path: /home/runner/.x-repo/github.com/sunny0826/kubecm
-collectedAt: 2026-09-10T21:05:09Z
+collectedAt: 2026-09-10T22:49:54Z
 loc:
   Go:
     code: 10372
