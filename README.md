@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,140 · **Forks**: 109 · **Open issues**: 119 · **Contributors**: 30
+- **Stars**: 1,141 · **Forks**: 109 · **Open issues**: 119 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -96,4 +96,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:33:20Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:26:23Z._
