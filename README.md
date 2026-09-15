@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.1` (2026-03-09)
-- **Last commit**: 2026-09-01
+- **Last commit**: 2026-09-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,141 · **Forks**: 109 · **Open issues**: 119 · **Contributors**: 30
+- **Stars**: 1,141 · **Forks**: 110 · **Open issues**: 119 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 386 · **Open PRs**: 10 · **Closed issues**: 100 · **Open issues**: 19 · **Commits**: 613
+- **Releases**: 89 · **Merged PRs**: 387 · **Open PRs**: 9 · **Closed issues**: 100 · **Open issues**: 19 · **Commits**: 614
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 1 | 1 | 0 | 1 |
-| last60d | 2026-07-16 | 0 | 2 | 1 | 2 | 0 | 1 |
-| 90d | 2026-06-16 | 0 | 4 | 4 | 3 | 0 | 4 |
-| last180d | 2026-03-18 | 0 | 8 | 5 | 6 | 0 | 8 |
-| 360d | 2025-09-19 | 5 | 32 | 8 | 15 | 2 | 32 |
-| last720d | 2024-09-24 | 11 | 78 | 8 | 32 | 7 | 78 |
+| 30d | 2026-08-16 | 0 | 1 | 1 | 1 | 0 | 2 |
+| last60d | 2026-07-17 | 0 | 3 | 1 | 2 | 0 | 2 |
+| 90d | 2026-06-17 | 0 | 5 | 3 | 3 | 0 | 5 |
+| last180d | 2026-03-19 | 0 | 9 | 4 | 6 | 0 | 9 |
+| 360d | 2025-09-20 | 5 | 33 | 7 | 15 | 2 | 33 |
+| last720d | 2024-09-25 | 11 | 79 | 7 | 31 | 7 | 79 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:52:14Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:04:25Z._
