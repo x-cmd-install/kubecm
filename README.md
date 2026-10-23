@@ -26,11 +26,11 @@ Total: **11,588** lines of code across **84** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 4 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 3
+- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (1/10) — dependency not pinned by hash detected -- score normalized to 1
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 2 | 1 | 1 | 2 |
-| 90d | 2026-07-24 | 0 | 2 | 2 | 2 | 1 | 2 |
-| last180d | 2026-04-25 | 0 | 6 | 4 | 5 | 1 | 6 |
-| 360d | 2025-10-27 | 5 | 31 | 7 | 14 | 3 | 31 |
-| last720d | 2024-11-01 | 11 | 73 | 7 | 30 | 7 | 79 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 1 | 1 | 1 | 2 |
+| 90d | 2026-07-25 | 0 | 2 | 2 | 2 | 1 | 2 |
+| last180d | 2026-04-26 | 0 | 6 | 4 | 5 | 1 | 6 |
+| 360d | 2025-10-28 | 5 | 31 | 7 | 14 | 3 | 31 |
+| last720d | 2024-11-02 | 10 | 73 | 7 | 30 | 7 | 73 |
 
 ## Release assets
 
@@ -78,6 +78,15 @@ Lowest-scoring checks:
 | [kubecm_v0.35.1_Windows_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Windows_i386.tar.gz) | 14.2 MiB | `native/win/x64` |
 | [kubecm_v0.35.1_Windows_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Windows_x86_64.tar.gz) | 15.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/kubecm). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.35.1` | ✅ latest |
+| Nix unstable | `0.35.1` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubecm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +96,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:35:22Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:43:20Z._
