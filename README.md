@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,145 · **Forks**: 110 · **Open issues**: 120 · **Contributors**: 30
+- **Stars**: 1,147 · **Forks**: 110 · **Open issues**: 120 · **Contributors**: 29
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-08-31 | 0 | 1 | 1 | 1 | 1 | 1 |
-| 90d | 2026-08-01 | 0 | 2 | 2 | 1 | 1 | 2 |
-| last180d | 2026-05-03 | 0 | 6 | 4 | 4 | 1 | 6 |
-| 360d | 2025-11-04 | 5 | 31 | 7 | 13 | 3 | 31 |
-| last720d | 2024-11-09 | 10 | 71 | 7 | 30 | 7 | 71 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 0 | 1 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-02 | 0 | 2 | 2 | 1 | 1 | 2 |
+| last180d | 2026-05-04 | 0 | 6 | 4 | 4 | 1 | 6 |
+| 360d | 2025-11-05 | 5 | 31 | 7 | 13 | 3 | 31 |
+| last720d | 2024-11-10 | 10 | 71 | 7 | 30 | 7 | 71 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:44:58Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:30:23Z._
