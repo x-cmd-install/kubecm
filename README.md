@@ -14,14 +14,14 @@ x install kubecm
 
 ## Code insight
 
-Total: **11,588** lines of code across **84** files in the top 5 languages.
+Total: **11,743** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,372 | 596 | 1,267 | 71 |
+| Go | 10,536 | 596 | 1,279 | 72 |
 | JavaScript | 921 | 55 | 149 | 8 |
-| Makefile | 86 | 11 | 24 | 1 |
 | Sh | 86 | 11 | 17 | 2 |
+| Makefile | 70 | 11 | 23 | 1 |
 | Svg | 66 | 1 | 0 | 2 |
 
 ## OpenSSF Scorecard
@@ -42,50 +42,50 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.35.1` (2026-03-09)
-- **Last commit**: 2026-09-15
+- **Latest**: `v0.36.0` (2026-11-05)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,148 · **Forks**: 111 · **Open issues**: 121 · **Contributors**: 29
+- **Stars**: 1,147 · **Forks**: 111 · **Open issues**: 122 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 387 · **Open PRs**: 9 · **Closed issues**: 100 · **Open issues**: 21 · **Commits**: 614
+- **Releases**: 90 · **Merged PRs**: 390 · **Open PRs**: 0 · **Closed issues**: 103 · **Open issues**: 19 · **Commits**: 617
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-05 | 0 | 1 | 1 | 0 | 2 | 1 |
-| 90d | 2026-08-06 | 0 | 2 | 2 | 1 | 2 | 2 |
-| last180d | 2026-05-08 | 0 | 6 | 4 | 4 | 2 | 6 |
-| 360d | 2025-11-09 | 5 | 31 | 7 | 13 | 4 | 28 |
-| last720d | 2024-11-14 | 10 | 70 | 7 | 30 | 8 | 71 |
+| 30d | 2026-10-06 | 1 | 2 | 0 | 2 | 0 | 3 |
+| last60d | 2026-09-06 | 1 | 4 | 0 | 3 | 0 | 4 |
+| 90d | 2026-08-07 | 1 | 5 | 0 | 4 | 0 | 5 |
+| last180d | 2026-05-09 | 1 | 9 | 0 | 7 | 0 | 9 |
+| 360d | 2025-11-10 | 6 | 33 | 0 | 15 | 2 | 31 |
+| last720d | 2024-11-15 | 11 | 73 | 0 | 33 | 6 | 74 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/checksums.txt) | 707 B | `other` |
-| [kubecm_v0.35.1_Darwin_arm64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Darwin_arm64.tar.gz) | 13.9 MiB | `native/darwin/arm64` |
-| [kubecm_v0.35.1_Darwin_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Darwin_x86_64.tar.gz) | 14.9 MiB | `native/darwin/x64` |
-| [kubecm_v0.35.1_Linux_arm64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Linux_arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
-| [kubecm_v0.35.1_Linux_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Linux_i386.tar.gz) | 13.5 MiB | `native/linux/x86` |
-| [kubecm_v0.35.1_Linux_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Linux_x86_64.tar.gz) | 14.6 MiB | `native/linux/x64` |
-| [kubecm_v0.35.1_Windows_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Windows_i386.tar.gz) | 14.2 MiB | `native/win/x64` |
-| [kubecm_v0.35.1_Windows_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.35.1/kubecm_v0.35.1_Windows_x86_64.tar.gz) | 15.0 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/checksums.txt) | 707 B | `other` |
+| [kubecm_v0.36.0_Darwin_arm64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_arm64.tar.gz) | 13.9 MiB | `native/darwin/arm64` |
+| [kubecm_v0.36.0_Darwin_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_x86_64.tar.gz) | 15.2 MiB | `native/darwin/x64` |
+| [kubecm_v0.36.0_Linux_arm64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_arm64.tar.gz) | 13.2 MiB | `native/linux/arm64` |
+| [kubecm_v0.36.0_Linux_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_i386.tar.gz) | 13.7 MiB | `native/linux/x86` |
+| [kubecm_v0.36.0_Linux_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_x86_64.tar.gz) | 14.9 MiB | `native/linux/x64` |
+| [kubecm_v0.36.0_Windows_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_i386.tar.gz) | 14.5 MiB | `native/win/x64` |
+| [kubecm_v0.36.0_Windows_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_x86_64.tar.gz) | 15.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/kubecm). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/kubecm). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.35.1` | ✅ latest |
-| Nix unstable | `0.35.1` | ✅ latest |
+| Homebrew | `0.36.0` | ✅ latest |
+| Nix unstable | `0.35.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:11:04Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:36:06Z._
