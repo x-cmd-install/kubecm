@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: kubecm
   visiblename: kubecm
-  version: 0.35.1
+  version: 0.36.0
   origversion: null
   status: newest
   summary: KubeConfig Manager
@@ -63,7 +63,7 @@
   visiblename: kubecm
   version: 0.35.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your kubeconfig more easily
   maintainers:
     - github@une-pause-cafe.fr
@@ -75,7 +75,7 @@
   visiblename: kubecm
   version: 0.35.1
   origversion: null
-  status: newest
+  status: outdated
   summary: Manage your kubeconfig more easily
   maintainers:
     - github@une-pause-cafe.fr
