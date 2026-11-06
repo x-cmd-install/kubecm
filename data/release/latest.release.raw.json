@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 707,
       "digest": "sha256:b9c137e214f00c7256f05103f6ac799974a4cca206e8e4f4e310da86e384a274",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-05T01:35:24Z",
       "updated_at": "2026-11-05T01:35:25Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14614324,
       "digest": "sha256:45af2a0d7d97c6693f29d98692d7829f6e76bbd20540c3b5f215734cc38618fd",
-      "download_count": 14,
+      "download_count": 29,
       "created_at": "2026-11-05T01:35:22Z",
       "updated_at": "2026-11-05T01:35:24Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15941076,
       "digest": "sha256:49ddabdc323b20a6f14f098dce874a35c91c5b6cb00b77a2c541198484c21a42",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-05T01:35:24Z",
       "updated_at": "2026-11-05T01:35:26Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 13858351,
       "digest": "sha256:aff313d3298cea88cf4f662d23654a24c8fd3242b3e7f84436b0869b06e2fa71",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-11-05T01:35:24Z",
       "updated_at": "2026-11-05T01:35:25Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14408169,
       "digest": "sha256:b591d7448890118e91211585035c0edf8de2110617fac55a63355bc16f3e0cea",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T01:35:22Z",
       "updated_at": "2026-11-05T01:35:24Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_i386.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15580368,
       "digest": "sha256:a014e57c0a8f659a76210c5b97393f306340bbd45296a168f5e47f095a132611",
-      "download_count": 19,
+      "download_count": 62,
       "created_at": "2026-11-05T01:35:24Z",
       "updated_at": "2026-11-05T01:35:25Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 15167065,
       "digest": "sha256:da478df12d39ff1ec820f0de63fd4d6f9a5daafeddd27a58b59e5a5809de6192",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-05T01:35:22Z",
       "updated_at": "2026-11-05T01:35:24Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_i386.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 16061788,
       "digest": "sha256:4b1886760b68c35b2a25a981b0fc2ab3310843e20af6bfed2c6f5abdcfb58b4a",
-      "download_count": 4,
+      "download_count": 10,
       "created_at": "2026-11-05T01:35:22Z",
       "updated_at": "2026-11-05T01:35:24Z",
       "browser_download_url": "https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_x86_64.tar.gz"
