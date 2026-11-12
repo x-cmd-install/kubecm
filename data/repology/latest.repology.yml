@@ -1,10 +1,27 @@
-- repo: homebrew
+- repo: aur
   srcname: kubecm
+  binname: kubecm
   visiblename: kubecm
   version: 0.36.0
-  origversion: null
+  origversion: 0.36.0-1
   status: newest
-  summary: KubeConfig Manager
+  summary: Manage your kubeconfig more easily
+  maintainers:
+    - agony4001@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kubecm-bin
+  binname: kubecm-bin
+  visiblename: kubecm-bin
+  version: 0.36.0
+  origversion: 0.36.0-1
+  status: newest
+  summary: Manage your kubeconfig more easily (prebuilt)
+  maintainers:
+    - agony4001@aur
+  licenses:
+    - Apache-2.0
 - repo: homebrew
   srcname: kubecm
   visiblename: kubecm
@@ -23,17 +40,13 @@
     - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
-- repo: nix_stable_24_11
+- repo: homebrew
   srcname: kubecm
   visiblename: kubecm
-  version: 0.32.0
+  version: 0.36.0
   origversion: null
-  status: outdated
-  summary: Manage your kubeconfig more easily
-  maintainers:
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
+  status: newest
+  summary: KubeConfig Manager
 - repo: nix_stable_25_05
   srcname: kubecm
   visiblename: kubecm
@@ -80,5 +93,16 @@
   maintainers:
     - github@une-pause-cafe.fr
     - sailord328@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kubecm
+  visiblename: kubecm
+  version: 0.32.0
+  origversion: null
+  status: outdated
+  summary: Manage your kubeconfig more easily
+  maintainers:
+    - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
