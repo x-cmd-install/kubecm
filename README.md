@@ -26,7 +26,7 @@ Total: **11,743** lines of code across **85** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.9 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 3 | 0 | 2 | 0 | 4 |
-| last60d | 2026-09-25 | 1 | 3 | 0 | 3 | 0 | 4 |
-| 90d | 2026-08-26 | 1 | 5 | 0 | 4 | 0 | 6 |
-| last180d | 2026-05-28 | 1 | 9 | 0 | 7 | 0 | 9 |
-| 360d | 2025-11-29 | 4 | 26 | 0 | 13 | 1 | 25 |
-| last720d | 2024-12-04 | 11 | 70 | 0 | 32 | 6 | 71 |
+| 30d | 2026-10-26 | 1 | 3 | 0 | 2 | 0 | 4 |
+| last60d | 2026-09-26 | 1 | 3 | 0 | 3 | 0 | 4 |
+| 90d | 2026-08-27 | 1 | 5 | 0 | 4 | 0 | 6 |
+| last180d | 2026-05-29 | 1 | 9 | 0 | 7 | 0 | 9 |
+| 360d | 2025-11-30 | 4 | 26 | 0 | 13 | 1 | 25 |
+| last720d | 2024-12-05 | 11 | 70 | 0 | 32 | 6 | 71 |
 
 ## Release assets
 
@@ -78,15 +78,6 @@ Lowest-scoring checks:
 | [kubecm_v0.36.0_Windows_i386.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_i386.tar.gz) | 14.5 MiB | `native/win/x64` |
 | [kubecm_v0.36.0_Windows_x86_64.tar.gz](https://github.com/sunny0826/kubecm/releases/download/v0.36.0/kubecm_v0.36.0_Windows_x86_64.tar.gz) | 15.3 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/kubecm). **4** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.36.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubecm` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +87,4 @@ Install metadata for kubecm lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:49:33Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:37:27Z._
